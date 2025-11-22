@@ -1,6 +1,5 @@
 # USTH Advanced Python 2025
 
-- Your student ID: **Put your ID here**
-- Your name: **Put your student name here**
-- Your class: **ICT1/ICT2/CS/DS here**
-
+* Your student ID: **2411001**	
+* Your name: **Nguyen Anh Tuan**	
+* Your class: **ICT1**
